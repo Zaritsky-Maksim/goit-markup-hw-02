@@ -1,0 +1,54 @@
+a{
+    text-decoration: none;
+}
+
+.pagination a:hover{
+    color:#2196F3;
+}
+.pagination a{
+    color:#212121;
+}
+.aside a{
+    color: #757575;
+}
+.aside a:hover{
+    color:#2196F3;
+}
+.hero{
+    background-color:#2F303A;
+}
+h1{
+    color: #ffffff;
+}
+button:focus{
+    background-color: #2196F3;
+    color: #ffffff;
+}
+.about p{
+    color: #757575;
+}
+.command{
+    background-color: #F5F4FA;
+}
+.profession{
+    color: #757575;
+}
+footer{
+    background-color: #2F303A;
+}
+footer p{
+    color: #ffffff;
+}
+
+/*portfolio*/
+
+.link a{
+    color: black;
+}
+.link a:hover{
+    color: #ffffff;
+    background-color: #2196F3;
+}
+.content p{
+    color: #757575;
+}
